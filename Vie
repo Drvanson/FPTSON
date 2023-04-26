@@ -1,3 +1,3 @@
 #EXTINF:0 tvg-id="vtvcab1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/12afd0753578930df229a5df864efa72/1682477778984/vtvcab/free_live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_720p/chunks.m3u8
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/6615fa9652fec5eb4c2045d7d37af2e4/1682563461677/vtvcab/free_live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_480p/chunks.m3u8
