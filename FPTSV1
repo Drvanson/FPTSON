@@ -146,13 +146,13 @@ udp://@225.1.1.11:30120
 
 
 
-#EXTINF: tvg-id="vov" tvg-logo="https://i.ibb.co/6yBdmNj/vovhd.png",VOVTV HD
+#EXTINF:0 tvg-id="vov" tvg-logo="https://i.ibb.co/6yBdmNj/vovhd.png",VOVTV HD
 udp://@225.1.2.171:30120
-#EXTINF: tvg-id="quochoi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
+#EXTINF:0 tvg-id="quochoi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
 udp://@225.1.2.148:30120
-#EXTINF: tvg-id="nhandan"  tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
+#EXTINF:0 tvg-id="nhandan"  tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV
 udp://@225.1.1.91:30120
-#EXTINF: tvg-id="qpvnhd"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
+#EXTINF:0 tvg-id="qpvnhd"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png",Quốc Phòng TV
 udp://@225.1.2.217:30120
 #EXTINF:0 tvg-id="antvhd"  tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg",An Ninh TV
 udp://@225.1.2.169:30120
