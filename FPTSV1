@@ -1,22 +1,22 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png",VTV1
+#EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/M9v4ybW/VTV1.png",VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/p1BbvZ0/VTV2.png",VTV2 
+#EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/p1BbvZ0/VTV2.png",VTV2 
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/chy8rds/VTV3.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/chy8rds/VTV3.png",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/xJznytq/VTV4.png",VTV4
+#EXTINF:0 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/xJznytq/VTV4.png",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/xCJk0W5/VTV5.png",VTV5
+#EXTINF:0 tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/xCJk0W5/VTV5.png",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtvCT" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV CAN THO
+#EXTINF:0 tvg-id="vtvCT" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV CAN THO
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/DGy1J31/VTV7.png",VTV7 
+#EXTINF:0 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/DGy1J31/VTV7.png",VTV7 
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/DRVtqbr/VTV8.png",VTV8
+#EXTINF:0 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/DRVtqbr/VTV8.png",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/PNjjM9m/VTV9.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/PNjjM9m/VTV9.png",VTV9
 udp://@225.1.1.128:30120
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1
 udp://@225.1.2.254:30120
