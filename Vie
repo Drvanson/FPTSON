@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/a3a5d21e79e1537a52f50597538e14d5/1684656416205/vtc_staging/livetv/hd_vtvcab_1/TV_HD_FMP4/hd_vtvcab_1_hevc_1080p/video.m3u8
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/14138be61a471d0bcb13bf7ca83ef400/1685007168852/vtc_staging/livetv/hd_vtvcab_1/TV_HD_FMP4/hd_vtvcab_1_hevc_1080p/video.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
-https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/b309bfb28d7eaf12ccc3fc0642150632/1684656447750/vtvcab/live/hd_vtvcab_3/TV_HD/hd_vtvcab_3_1080p/chunks.m3u8
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/c722304c33fd220e41362a10dcfab779/1685007198995/vtvcab/live/hd_vtvcab_3/TV_HD/hd_vtvcab_3_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsplus
-https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/4318642c7a68c9663d6d06ff9550b4a5/1684656497986/vtvcab/live/hd_vtvcab_6/TV_HD/hd_vtvcab_6_1080p/chunks.m3u8
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/1ad01a35eb9a8d201c4215d9a033d42c/1685007219651/vtvcab/live/hd_vtvcab_6/TV_HD/hd_vtvcab_6_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8", ON Sports News
-https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/484fc263a5facb989220c42da1002ebf/1684656520046/vtvcab/live/hd_vtvcab_18/TV_HD/hd_vtvcab_18_1080p/chunks.m3u8
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/67b3384b08252366ec666980fa1fa224/1685007240141/vtvcab/live/hd_vtvcab_18/TV_HD/hd_vtvcab_18_1080p/chunks.m3u8
