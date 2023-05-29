@@ -129,20 +129,9 @@ https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:0 tvg-id="btv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/13871247-f8b2-4aab-80e3-dbb859adf101.png", ON Sports ENG
-#https://livevlive.vtvcab.vn/ONSPORTTA/m30_index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/f6818e24-6211-42c5-aad5-4846dd29ee99.png", ON Football ENG
-#https://livevlive.vtvcab.vn/ONFOOTBALLTA/m30_index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/5de42a4a-a26a-4eab-afcc-c119c9f918bb.png", ON Sports News ENG
-#https://livevlive.vtvcab.vn/ONSPORTNEWSTA/m30_index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ad12aa62-1d69-4141-8852-18d65ab3be64.jpg", ON Golf ENG
-#https://livevlive.vtvcab.vn/ONGOLFTA/m30_index.m3u8
+
 #EXTINF:0 tvg-id="K+ Sport2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20220127020328&path-prefix=vi", K+ Sport2
 udp://@225.1.1.11:30120
-#EXTINF:0 tvg-id="" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng đá Việt
-#https://livevlive.vtvcab.vn/ONVFFTV/m30_index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
-#https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
 
 
