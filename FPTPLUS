@@ -129,12 +129,6 @@ https://ott3.khanggtivi.xyz/live/channel/tv360/IxnZqST1Q277hmpS5q6ityTn2xSScCArr
 #EXTINF:0 tvg-id="btv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 https://ott3.khanggtivi.xyz/live/channel/tv360/IxnZqST1Q277hmpS5q6ityTn2xSScCArrK4o0n0UINz5Tf0/1703916581/chunklist.m3u8?vstv=2380
 
-
-#EXTINF:0 tvg-id="K+ Sport2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20220127020328&path-prefix=vi", K+ Sport2
-udp://@225.1.1.11:30120
-
-
-
 #EXTINF:0 tvg-id="vov" tvg-logo="https://i.ibb.co/6yBdmNj/vovhd.png",VOVTV HD
 udp://@225.1.2.171:30120
 #EXTINF:0 tvg-id="quochoi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
