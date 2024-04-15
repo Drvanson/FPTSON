@@ -66,8 +66,7 @@ udp://@225.1.1.44:30120
 udp://@225.1.1.113:30120
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ott3.khanggtivi.xyz/live/channel/tv360/IxnZqST1Q277hmpS5q6ityTn2xSScCArrK4o0n0UINz5Tf0/1703916581/chunklist.m3u8?vstv=180
+https://livevlive.vtvcab.vn/hls/GIAITRI_TV_HD_CL/sc-gaFEAQ/m20_index.m3u8
 #EXTINF:-1 tvg-id="SCTV6" group-title="ĐỊA PHƯƠNG" tvg-logo="http://img.vnmedia.xyz/logo/sctv6hd.png",SCTV6
 udp://@225.1.1.188:30120
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",VTVCab1 - Vie GIẢI TRÍ
