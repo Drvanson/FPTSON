@@ -106,7 +106,7 @@ https://ott3.khanggtivi.xyz/live/channel/tv360/IxnZqST1Q277hmpS5q6ityTn2xSScCArr
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/dvr-${start}-${offset}.m3u8", ON Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ott3.khanggtivi.xyz/live/channel/tv360/IxnZqST1Q277hmpS5q6ityTn2xSScCArrK4o0n0UINz5Tf0/1703916581/chunklist.m3u8?vstv=184
-#EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/OSK4RXT.png"
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/OSK4RXT.png", VTVcab13
 udp://@225.1.1.122:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/dvr-${start}-${offset}.m3u8", ON Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
