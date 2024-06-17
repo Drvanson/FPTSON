@@ -125,8 +125,6 @@ udp://@225.1.2.223:30120
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
 udp://@225.1.2.235:30120
-#EXTINF:-1 tvg-id="WILD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/q12Gf7r/Natgeo.png",WILD
-udp://@225.1.1.211:30120
 #EXTINF:-1 tvg-id="Outdoor" group-title="Quốc Tế" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg",Outdoor Channel HD
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="TLC" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",TLC
