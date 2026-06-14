@@ -11,7 +11,7 @@ udp://@225.1.2.20:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/xCJk0W5/VTV5.png",VTV5
 udp://@225.1.1.131:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtvCT" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV CAN THO
-udp://@225.1.2.245:30120
+udp/225.1.2.154:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/DGy1J31/VTV7.png",VTV7 
 udp://@225.1.2.96:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/DRVtqbr/VTV8.png",VTV8
